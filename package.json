@@ -1,0 +1,17 @@
+{
+	"author":	"Aaron Blakely <aaron@ephasic.org>",
+	"name": 	"smallurl",
+	"description":	"Node.js client for SmallURL",
+	"homepage":	"https://github.com/ablakely/node-smallurl",
+	"version":	"0.0.1",
+	"main":		"./index",
+
+	"repository": {
+			"type":		"git",
+			"url":		"git://github.com/ablakely/node-smallurl"
+	},
+
+	"dependencies": {
+		"request": "*"
+	}
+}
