@@ -3,7 +3,7 @@
 	"name": 	"smallurl",
 	"description":	"Node.js client for SmallURL",
 	"homepage":	"https://github.com/ablakely/node-smallurl",
-	"version":	"0.0.1",
+	"version":	"0.0.1a",
 	"main":		"./index",
 
 	"repository": {
