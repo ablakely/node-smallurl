@@ -14,3 +14,9 @@ shortener.shorten("http://google.com", function(err, url) {
 	console.log(url);
 });
 ```
+
+# Installation
+
+To install, just use npm.
+
+``` npm install smallurl ```
